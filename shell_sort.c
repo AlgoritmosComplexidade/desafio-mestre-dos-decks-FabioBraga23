@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 // ============================================================
 // ARENA DE CODIGO - MESTRE DOS DECKS
 // NIVEL AVENTUREIRO
